@@ -52,7 +52,7 @@ Managed By @kingswibu
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to retrieve pyrograms and telethon string sessions by @nbzoning
+A telegram bot to retrieve pyrograms and telethon string sessions by @gabutinaja00
 
 Group Support : [Gabung](https://t.me/wibucringe00)
 
