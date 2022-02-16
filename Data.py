@@ -56,9 +56,11 @@ A telegram bot to retrieve pyrograms and telethon string sessions by @gabutinaja
 
 Group Support : [Gabung](https://t.me/wibucringe00)
 
+Daftar Robot : [ListRobot](https://t.me/ikilistbot)
+
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @kingswibu
+Developer : [sangean](https://t.me/kingswibu)
     """
